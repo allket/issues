@@ -41,7 +41,5 @@ body:
     attributes:
       label: Issue Description
       description: 재현을 위한 사전조건및 재현에 이르기까지의 과정과 이슈내용
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
     validations:
       required: true
