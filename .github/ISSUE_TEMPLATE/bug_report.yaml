@@ -5,10 +5,6 @@ labels: ["bug", "triage"]
 assignees:
   - octocat
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Thanks for taking the time to fill out this bug report!
 
   - type: dropdown
     id: version
@@ -19,7 +15,7 @@ body:
         - 1.0.2 (Default)
         - 1.0.3 (Edge)
     validations:
-      required: true
+      required: false
       
   - type: dropdown
     id: apptype
@@ -29,6 +25,8 @@ body:
       options:
         - Store App
         - User App
+    validations:
+      required: true
 
   - type: dropdown
     id: ostype
@@ -38,6 +36,8 @@ body:
       options:
         - Android
         - iOS
+    validations:
+      required: true
 
   - type: textarea
     id: what-happened
