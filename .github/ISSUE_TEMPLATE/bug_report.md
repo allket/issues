@@ -8,12 +8,12 @@ assignees: ''
 ---
 
 **디바이스 타입**
-- [] android
-- [] ios
+- [ ] android
+- [ ] ios
 
 **앱 타입**
-- [] store 
-- [] user
+- [ ] store 
+- [ ] user
 
 **앱 버전**
 - Version: 
