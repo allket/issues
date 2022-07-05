@@ -7,21 +7,10 @@ assignees: ''
 
 ---
 
-**디바이스 타입**
-- [ ] android
-- [ ] ios
-
-**앱 타입**
-- [ ] store 
-- [ ] user
-
-**앱 버전**
-- Version: 
-
-**재현경로**
--
-
-**이슈내용**
--
+1. OS : android, ios
+2. App : store, user
+3. 버전 : 
+4. 재현경로 :
+5. 이슈내용 :
 
 **Screenshots**
